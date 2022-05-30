@@ -1,0 +1,1 @@
+print("Hola mundo, my name is Samantha, I prefear to be called Sam. Im in 9 grade, in the group of the D (the best of course). I dont have favorite food, I love eating. Something random is that I love to make people laugh.")
